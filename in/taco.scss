@@ -1,0 +1,17 @@
+.page {background-color:black;}
+
+#navbar {
+  width: 80%;
+  height: 23px;
+
+  ul { list-style-type: none; }
+  li {
+    float: left;
+    a { font-weight: bold; }
+  }
+}
+
+$dark-accent:   #333;
+$light-accent:  #eee;
+
+.hello {color: $dark-accent;}

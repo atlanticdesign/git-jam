@@ -1,0 +1,27 @@
+/* line 1, ../in/taco.scss */
+.page {
+  background-color: black;
+}
+
+/* line 3, ../in/taco.scss */
+#navbar {
+  width: 80%;
+  height: 23px;
+}
+/* line 7, ../in/taco.scss */
+#navbar ul {
+  list-style-type: none;
+}
+/* line 8, ../in/taco.scss */
+#navbar li {
+  float: left;
+}
+/* line 10, ../in/taco.scss */
+#navbar li a {
+  font-weight: bold;
+}
+
+/* line 17, ../in/taco.scss */
+.hello {
+  color: #333333;
+}

@@ -1,0 +1,22 @@
+/* line 1, ../in/style.scss */
+.page {
+  background-color: black;
+}
+
+/* line 3, ../in/style.scss */
+#navbar {
+  width: 80%;
+  height: 23px;
+}
+/* line 7, ../in/style.scss */
+#navbar ul {
+  list-style-type: none;
+}
+/* line 8, ../in/style.scss */
+#navbar li {
+  float: left;
+}
+/* line 10, ../in/style.scss */
+#navbar li a {
+  font-weight: bold;
+}
